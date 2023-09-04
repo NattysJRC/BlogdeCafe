@@ -1,7 +1,7 @@
 :root {
-    --fuenteHeading: 'Borel', cursive;
-    --fuenteparrado: 'Kalam', cursive;
-
+    --fuenteHeading: 'PT Sans', sans-serif;
+    --fuenteParrafos: 'Open Sans', sans-serif;
+    
     --primario: #784d3c;
     --gris:#e1e1e1;
     --blanco: #ffffff;
