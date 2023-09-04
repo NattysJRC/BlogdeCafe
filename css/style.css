@@ -15,7 +15,7 @@ html {
     box-sizing: inherit; /* Heredar del elemento padre */
 }
 body {
-    font-family:var(--fuenteparrado); /* Fuente parrafo*/
+    font-family:var(--fuenteParrafos); /* Fuente parrafo*/
     font-size: 1.6rem;
     line-height: 2; /*Interlineado*/
 }
